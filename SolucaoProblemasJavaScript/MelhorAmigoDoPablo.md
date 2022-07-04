@@ -15,3 +15,4 @@ A entrada contém somente um caso de teste. Cada linha é composta pelo primeiro
 
 Seu programa deverá imprimir os inscritos pela ordem de escolha e por ordem alfabética, seguido do nome do vencedor. Imprima uma linha em branco entre a lista de inscritos e o nome do vencedor.
  
+![image](https://user-images.githubusercontent.com/76081229/177156030-345304f2-af93-4a43-9235-519d1c69dd7c.png)
